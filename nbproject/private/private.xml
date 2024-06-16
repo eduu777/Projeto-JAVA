@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/dto/AlugarDTO.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/views/FrmPrincipalView.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/views/FrmCliente.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/dto/LivroDTO.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/views/FrmAlugados.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/views/FrmAlugar.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/views/FrmAddCliente.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/views/FrmAddLivro.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/dto/UsuarioDTO.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/dao/AlugarDAO.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/dao/LivroDAO.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/views/FrmLivro.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/views/Login.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/dao/ConnectionFactory.java</file>
+            <file>file:/C:/Users/Eduardo/Documents/NetBeansProjects/Biblioteca/src/dto/ClienteDTO.java</file>
+        </group>
+    </open-files>
+</project-private>
